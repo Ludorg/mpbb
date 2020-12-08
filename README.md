@@ -1,5 +1,6 @@
-# mpbb Miniatures Painting Progess Bar (mppb) by Ludorg aka Adinarak (2008/04/05)
-Miniatures Paint Progess Bar (mppb)
+# mpbb Miniatures Painting Progess Bar (mppb)
+
+Miniatures Paint Progess Bar (mppb) by Ludorg aka Adinarak (2008/04/05)
 
 ## mppb usage (rtfm)
 
