@@ -4,7 +4,7 @@ Miniatures Paint Progess Bar (mppb) by Ludorg aka Adinarak (2008/04/05)
 
 ## 2020 foreword
 
-This is some excavation from the past (found on my PC). This code was made when I was painting miniatures and maintaining a blog on this hobby: [La Horde d'Adinarak](http://war-lords.over-blog.com/).
+This is some excavation from the past (found on my PC). This code was made when I was painting miniatures and maintaining a blog on this hobby: [La Horde d'Adinarak](http://war-lords.over-blog.com/). It was between 2006 and 2010.
 
 ## mppb usage (rtfm)
 
@@ -54,4 +54,36 @@ http://ludorg.net/adinarak/mppb.php?step=3
 http://ludorg.net/adinarak/mppb.php?step=6.8
 ```
 ![](http://ludorg.net/adinarak/mppb.php?step=6.8)
+
+
+```html
+http://ludorg.net/adinarak/mppb.php?step=6.1&width=200
+```
+![](http://ludorg.net/adinarak/mppb.php?step=6.1&width=200)
+
+```html
+http://ludorg.net/adinarak/mppb.php?step=6.9&height=80
+```
+![](http://ludorg.net/adinarak/mppb.php?step=6.9&height=80)
+
+```html
+http://ludorg.net/adinarak/mppb.php?step=6.75&width=400&height=20
+```
+![](http://ludorg.net/adinarak/mppb.php?step=6.75&width=400&height=20)
+
+```html
+http://ludorg.net/adinarak/mppb.php?step=6.5&bg1_color=0x7f007f60&bg2_color=0x0f007f60&width=600&height=35
+```
+![](http://ludorg.net/adinarak/mppb.php?step=6.5&bg1_color=0x7f007f60&bg2_color=0x0f007f60&width=600&height=35)
+
+```html
+http://ludorg.net/adinarak/mppb.php?step=4.7&border=no
+```
+![](http://ludorg.net/adinarak/mppb.php?step=4.7&border=no)
+
+```html
+http://ludorg.net/adinarak/mppb.php
+```
+![](http://ludorg.net/adinarak/mppb.php)
+
 
